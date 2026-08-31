@@ -126,7 +126,7 @@ Most scripts include configuration sections at the top with customizable variabl
 
 ## License
 
-[Add your license information here]
+MIT License - see [LICENSE](LICENSE) file for details
 
 ## Notes
 
